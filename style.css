@@ -1,0 +1,23 @@
+/* Hero section background */
+.hero-section {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,14,154,1) 35%, rgba(0,212,255,1) 100%);
+    padding: 50px 0; /* Adjust padding as needed */
+    color: white; /* Ensure text is visible */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+
+/* Other CSS for buttons and text */
+.my-white-button {
+    background-color: white; /* White background */
+    color: black; /* Black text color */
+    border: 2px solid black; /* Add a solid border */
+    padding: 10px px; /* Add padding for a better look */
+    border-radius: 5px; /* Optional: Rounded corners */
+    cursor: pointer; /* Pointer on hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+.my-white-button:hover {
+    background-color: #f0f0f0; /* Slightly darker background on hover */
+    color: black; /* Keep text color black */
+}

@@ -1,0 +1,19 @@
+.terms-page {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,14,154,1) 35%, rgba(0,212,255,1) 100%);
+    padding: 20px;
+    color: white; /* To make text visible on dark background */
+    border-radius: 10px; /* Optional, to add some rounded corners */
+}
+
+.my-button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.my-button:hover {
+    background-color: #f0f0f0; /* Slight color change on hover */
+}
